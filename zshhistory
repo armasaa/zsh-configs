@@ -1,0 +1,98 @@
+#	/.config/zsh/zshhistory
+
+sudo nano /etc/lightdm/lightdm.conf 
+reboot
+sudo nano /etc/lightdm/lightdm-webkit2-greeter.conf
+reboot
+sudo pacman -Rs awesome
+reboot
+exit
+shutdown now
+sudo pacman -S lxsession
+sudo systemctl enable lxsesion
+sudo systemctl enable lxpolkit
+sudo nano /etc/lightdm/lightdm-webkit2-greeter.conf
+reboot
+sudo nano /etc/lightdm/lightdm-webkit2-greeter.conf
+reboot
+sudo nano /etc/lightdm/lightdm-webkit2-greeter.conf
+sfdsafsdfsdfsdahgfsdgfhsdgvfashditysdgfhvghfvskgdhfvsaghdvfgshfdvhgsdvfkghsadvfhgcghasvdfkhgvsadhgfvskahgdvfkhagvfkhagsdvfkahgsdvfdsjhdbfsakhgvdhgvdgv[B[A
+reboot
+sudo nano /etc/lightdm/lightdm-webkit2-greeter.conf
+reboot
+whereis litarvan
+yay -S lightdm-webkit-theme-litarvan
+sudo nano /etc/lightdm/lightdm-webkit2-greeter.conf
+reboot
+sudo nano /etc/lightdm/lightdm-webkit2-greeter.conf
+reboot
+sudo nano /etc/lightdm/lightdm-webkit2-greeter.conf
+reboot
+sudo nano /etc/lightdm/lightdm-webkit2-greeter.conf
+reboot
+whereis picom
+picom -b
+sudo find / -name spectrwm
+sudo systemctl enable picom
+cd ~/.spectrwm.conf
+nano  ~/.spectrwm.conf
+reboot
+sudo find / -name spectrwm_us
+sudo find / -name spectrwm
+cd /etc/spectrwm
+ls
+cp spectrwm_us.conf ~/.config/spectrwm/spectrwm_us.conf
+reboot
+exit
+reboot
+exit
+--xrender-sync --xrender-sync-fence
+reboot
+sudo pacman -S feh
+reboot
+reboot
+reboot
+sudo nano /etc/xdg/picom.conf
+reboot
+reboot
+reboot
+cp /etc/xdg/termite/config ~/.config/termite/config
+termite
+sudo pacman -S openjdk
+yay -S openjdk
+exit
+sudo pacman -S chromium
+chromium
+sudo pacman -Rs chromium
+clear
+neofetch
+reboot
+exit
+exit
+sudo nano ~/.config/termite
+sudo nano ~/.config/termite/config
+cd..
+ls
+cd artas/.config
+ls
+cd spectrwm
+ls
+nano  ~/.spectrwm.conf
+reboot
+sudo find / -name baraction
+sudo find / -name baraction.sh
+cp /usr/share/spectrwm/baraction.sh ~/.config/spectrwm/baraction.sh
+sudo nano /etc/lightdm/lightdm-webkit2-greeter.conf
+reboot
+sudo nano /etc/lightdm/lightdm-webkit2-greeter.conf
+sudo nano /etc/lightdm/lightdm.conf 
+sudo nano /etc/lightdm/lightdm-webkit2-greeter.conf
+yay -S lightdm-webkit-theme-aether
+sudo nano /etc/lightdm/lightdm-webkit2-greeter.conf
+reboot
+yay -S lightdm-webkit-theme-litarvan
+sudo nano /etc/lightdm/lightdm-webkit2-greeter.conf
+reboot
+sudo nano /etc/lightdm/lightdm-webkit2-greeter.conf
+reboot
+reboot
